@@ -1,6 +1,9 @@
 # smarthome
 
-A new Flutter project.
+## Result
+
+![Menu](screenshots/scr1.jpeg)
+![Home Page](screenshots/scr2.jpeg)
 
 ## Getting Started
 
